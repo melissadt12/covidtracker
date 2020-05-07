@@ -4,6 +4,7 @@ import List from './src/components/List';
 import Header from './src/components/Header';
 import Global from './src/components/totalGlobal';
 import SubHeader from './src/components/SubHeader';
+import CurrentDate from './src/components/CurrentDate';
 
 class App extends Component {
 
@@ -18,6 +19,7 @@ class App extends Component {
           <Header/>
         </View>
         <View style= {styles.box1}>
+          <CurrentDate/>
           <SubHeader/>
           <Global/>
         </View>

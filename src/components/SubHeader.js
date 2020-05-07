@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet} from 'react-native';
 
-const SubHeader = (props) => {
+const SubHeader = props => {
     return (
         <View style={styles.viewBox}>
             <Text style = {styles.textBox}>              Global              </Text>
