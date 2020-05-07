@@ -21,7 +21,7 @@ Cloning into 'covidtracker'...
 > Unpacking objects: 100% (29/29), 84.28 KiB | 56.00 KiB/s, done.
 ```
 
-### Run Project
+## Run Project
 1. Open Command Prompt
 2. Change the curent working directory to the cloned project
 3. Type npm install to install the expo package to the project
